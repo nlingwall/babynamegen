@@ -1,0 +1,92 @@
+body{
+    margin:0px;
+    }
+
+
+#head{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:30px;
+}
+
+
+#header-name{
+    font-size: 4em;
+    font-family: fantasy;
+    align-content: center;
+   
+}
+
+#enter{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+}
+
+#enter-title{
+    font-size:1.5em;
+    font-family: fantasy;
+    align-content:center;
+}
+
+#input-last{
+    height: 25px;
+    width:  200px;
+    font-size: 1em;
+    margin:20px;
+}
+
+#find-gender{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:20px;
+}
+
+#press{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#name-it{
+    background-color:whitesmoke;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:2px solid black;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:fantasy;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px grey;
+
+}
+
+#name-it:hover {
+	background-color:white;
+}
+#name-it:active {
+	position:relative;
+	top:1px;
+}
+
+#name-add{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    font-size: 1em;
+}
+
+h3{
+    
+
+}
